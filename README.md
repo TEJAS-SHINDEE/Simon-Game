@@ -28,16 +28,18 @@ Keep track of your progress with a scoring system. Try to beat your high score!
 Responsive Design:
 
 The game adapts to different screen sizes, making it accessible and enjoyable on various devices.
+
 Tech Stack:
+
 HTML5:
-
 Used for creating the structure of the webpage.
+
 CSS3:
-
 Responsible for styling and making the game visually appealing.
-JavaScript:
 
+JavaScript:
 Powers the game logic and interactivity, making the game dynamic and engaging.
+
 How to Use:
 Clone the Repository:
 
@@ -45,18 +47,20 @@ Download a copy of the project to your computer using the command git clone http
 Navigate to the Project Directory:
 
 Use the command cd simon-game to enter the project folder.
+
 Open the Game:
-
 Double-click on index.html to open the Simon Game in your web browser. Alternatively, use a live server for an optimal experience.
-Play the Game:
 
+Play the Game:
 Follow on-screen instructions to start the game.
 Repeat the sequence of colors and sounds to progress and increase your score.
 Have Fun!
-
 Enjoy playing the Simon Game and challenge yourself to beat your high score!
+
 Contributing:
+
 If you want to contribute to the project:
+
 Fork the repository.
 Create a new branch for your changes.
 Make your changes and commit them.
