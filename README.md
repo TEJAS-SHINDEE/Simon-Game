@@ -68,4 +68,4 @@ Open a pull request to suggest your changes.
 
 
 check UI of Project
-![Alt text](input.jpg?raw=true "Title")
+![Alt text](input.png?raw=true "Title")
